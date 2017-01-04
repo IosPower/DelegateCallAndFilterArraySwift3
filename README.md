@@ -1,0 +1,2 @@
+# DelegateCallAndFilterArraySwift3
+DelegateCallAndFilterArraySwift3
